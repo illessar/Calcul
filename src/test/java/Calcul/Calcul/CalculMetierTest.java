@@ -18,7 +18,7 @@ public class CalculMetierTest extends TestCase {
 	
 	public void testProduit()
 	{
-		assertTrue(metier.produit(10, 9) == 90);
+		assertTrue(metier.produit(10, 9) == 900);
 	}
 
 }
