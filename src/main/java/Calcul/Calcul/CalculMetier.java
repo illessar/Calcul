@@ -10,6 +10,6 @@ public class CalculMetier {
 	public double produit(double a, double b)
 	{
 		return a*b;
-	}	
+	}
 
 }
