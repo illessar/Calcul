@@ -6,7 +6,7 @@ public class CalculMetierTest extends TestCase {
 	
 	CalculMetier metier;
 
-	protected void setUp() throws Exception {
+	public void setUp() throws Exception {
 		super.setUp();
 		metier = new CalculMetier();
 	}
